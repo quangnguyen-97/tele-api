@@ -1,0 +1,27 @@
+{
+  "name": "tele-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangnguyen-97/tele-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangnguyen-97/tele-api/issues"
+  },
+  "homepage": "https://github.com/quangnguyen-97/tele-api#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
